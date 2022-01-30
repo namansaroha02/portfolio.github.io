@@ -1035,6 +1035,13 @@ img{
 }
 /*==================== MEDIA QUERIES ====================*/
 /* For small devices */
+@media screen and (max-width:413px){
+    .project__img{
+        width: 211px;
+        justify-self: center;
+        object-position: 0px -3px;
+    }
+}
 @media screen and (max-width: 350px){
     .container{
         margin-left: var(--mb-1);
