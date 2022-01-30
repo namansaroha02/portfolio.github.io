@@ -1039,7 +1039,7 @@ img{
     .project__img{
         width: 211px;
         justify-self: center;
-        object-position: 0px -3px;
+        object-position: 0px -5px;
     }
 }
 @media screen and (max-width: 350px){
