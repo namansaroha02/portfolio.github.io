@@ -1045,6 +1045,23 @@ img{
         height: 456px;
     }
 }
+@media screen and (min-width:436px){
+    .project__img{
+        width: 212px;
+        justify-self: center;
+        object-position: 0px -1px;
+    }
+    .project__bg{
+        height: 457px;
+    }
+}
+@media screen and (min-width:506px){
+    .project__img{
+        width: 234px;
+        justify-self: center;
+        object-position: 0px -1px;
+    }
+}
 @media screen and (max-width: 350px){
     .container{
         margin-left: var(--mb-1);
@@ -1134,7 +1151,7 @@ img{
     .project__img{
         width: 235px;
         justify-self: center;
-        object-position: 0px -4px;
+        object-position: 0px -5px;
     }
     .project__bg{
         height: 277px;
