@@ -821,7 +821,7 @@ img{
 .project__bg{
     background-color:var(--first-color-second) ;
     padding-top: 3rem;
-    height: 454px;
+    height: 455px;
 }
 
 .project__title{
@@ -841,7 +841,7 @@ img{
 .project__img{
     width: 211px;
     justify-self: center;
-    object-position: 0px -3px;
+    object-position: 0px -2px;
 }
 /*==================== TESTIMONIAL ====================*/
 .testimonial__data,
